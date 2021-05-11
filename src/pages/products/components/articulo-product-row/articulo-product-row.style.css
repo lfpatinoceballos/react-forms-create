@@ -1,0 +1,10 @@
+.articulo-product-row-container{
+    border: 1px solid cadetblue;
+    text-align: left;
+    margin-bottom: 1px;
+}
+
+.articulo-without-stock{
+    color:red;
+    font-weight: bold;
+}
